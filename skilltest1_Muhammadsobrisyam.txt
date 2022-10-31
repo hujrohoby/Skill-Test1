@@ -1,0 +1,5 @@
+Nama : Muhammad Sobri Syam
+Umur : 29 Tahun
+Stack : QA
+Bahasa Pemrograman : JavaScript
+
